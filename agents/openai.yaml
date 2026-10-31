@@ -1,0 +1,6 @@
+interface:
+  display_name: "Good to Better · 产品体验评审"
+  short_description: "对照成熟产品发现体验差距，形成有截图证据的修改方案与完整流程验收清单"
+  default_prompt: "用 $good-to-better 对照指定成熟产品评审核心使用流程，输出截图证据、具体问题和验收清单，先不修改代码。"
+policy:
+  allow_implicit_invocation: true
